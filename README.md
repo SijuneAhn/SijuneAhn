@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Sijune Ahn 👋
 
 <!--
 **SijuneAhn/SijuneAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+저는 대구과학고등학교 1학년 2반 9번 안시준입니다 농구를 좋아합니다
